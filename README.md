@@ -8,3 +8,8 @@ button se svetlici
 mezi nema div buffer nastavuju rozptyl
 
 Jednoducha minimalisticka landing page.
+
+commit2
+
+pridan sign up formular vytvoreny na mailchimp.com
+lidi zadaji svuj email a ja mam pak sit kontaktu
